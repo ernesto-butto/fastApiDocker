@@ -6,4 +6,5 @@ RUN pip install fastapi
 
 COPY ./app /app
 
+## Added by Ernesto
 RUN pip install -r requirements.txt
